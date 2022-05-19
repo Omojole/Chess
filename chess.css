@@ -1,0 +1,29 @@
+table, td{border:
+    1px solid light;
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+     width: 75%;
+     border-collapse: collapse;
+     outline: 10px solid black;
+}
+td{
+    font-size: 60px;
+    height: 60px;
+    text-align: center;
+}
+
+.white {
+    background-color: darkorange;
+}
+.black {
+    background-color:brown;
+}
+h1{
+ text-transform:uppercase;
+ text-align: center;
+ text-decoration: underline;
+ text-decoration-color: black;
+}
+
