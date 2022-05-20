@@ -6,7 +6,7 @@ table, td{border:
 table{
      width: 75%;
      border-collapse: collapse;
-     outline: 10px solid black;
+     outline:10px solid black;
 }
 td{
     font-size: 60px;
